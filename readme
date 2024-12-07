@@ -1,0 +1,21 @@
+Baixar o xampp, para poder rodar localmente o projeto
+https://sourceforge.net/projects/xampp/
+
+após baixar atiçar o mysql e o apache, porque não sei mas disse que é obrigatório
+
+após isso, pegar esse arquivo e colocar dentro da pasta
+
+C:\xampp\htdocs
+OBS: esse arquivo é o wordpress que foi baixado https://wordpress.org/download/
+
+Para rodar agora localmente só colocar
+localhost/hd-solution/
+
+Para editar entrar no admin 
+localhost/hd-solution/wp-admin/
+
+a rota depois do localhost esta como hd-solution porque foi o nome da pasta que colocamos dentro da rota 
+C:\xampp\htdocs
+
+ai caso queira renomear essa rota, terá que renomear a pasta
+
